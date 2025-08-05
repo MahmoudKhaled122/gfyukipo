@@ -9,7 +9,7 @@
         font-size: 12px;
     }
 }
-@media((min-width: 260px) and (max-width: 576px)){
+@media((min-width: 460px) and (max-width: 576px)){
     .quotes-generation-container{
         width: 90%;
         box-shadow: 0px 0px 4px 2px #fff
@@ -282,3 +282,4 @@
     }
 
 }
+
